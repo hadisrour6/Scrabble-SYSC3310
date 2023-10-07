@@ -1,5 +1,5 @@
 # SYSC3110-Scrabble
-SYSC3110 Group 11 Scrabble Game Project Version 1.0; 10/24/2022
+SYSC3110 Group 11 Scrabble Game Project Version 1.0; 
 
 
 ## Description:
